@@ -3,7 +3,7 @@
 
 ## SARB Quarterly Bulletin Data
 
-*\<last updated on 2020-04-27\>*
+*\<last updated on 2020-04-30\>*
 
 This R package provides convenient access to the data that accompanies
 the South African Reserve Bank Quarterly Bulletin. Variables that are of
@@ -24,10 +24,11 @@ the year, quarter or month is used. In addition, the first Monday of the
 week is used from weekly data. The weekly data may include a few zeros
 that may have arisen on public holidays.
 
-The most recent description file that is provided by the SARB has been
-saved is also included and an additional `.xlsx` version is included in
-the **desc** sub-folder. The layout is consistent with the way in which
-this data is provided.
+The most recent description file that is provided by the SARB has also
+been saved in the `data` folder as `sarb_description.RData`. An
+additional `.xlsx` version of this file is included in the **desc**
+folder. The layout of this file is consistent with the way in which this
+data is provided.
 
 ## Installation
 
