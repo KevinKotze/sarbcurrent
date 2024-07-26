@@ -3,7 +3,7 @@
 
 ## SARB Quarterly Bulletin Data
 
-*\<last updated on 2020-04-30\>*
+*\<last updated on 2024-07-26\>*
 
 This R package provides convenient access to the data that accompanies
 the South African Reserve Bank Quarterly Bulletin. Variables that are of
@@ -11,11 +11,11 @@ the same frequency have been converted to `tibble` format and have been
 saved as `.RData` files. The names for each of these files is as
 follows:
 
-  - **sarb\_annual.RData**
-  - **sarb\_quarter.RData**
-  - **sarb\_month.RData**
-  - **sarb\_week.RData**
-  - **sarb\_day.RData**
+- **sarb_annual.RData**
+- **sarb_quarter.RData**
+- **sarb_month.RData**
+- **sarb_week.RData**
+- **sarb_day.RData**
 
 The column headers relate to each of the alpha-numeric codes that are
 used by the SARB. The first column is reserved for the date. The
